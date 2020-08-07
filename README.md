@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Patrick 👋
 
 - 🔭 I’m currently working on: **Portfolio && YouTube**
 - 🌱 I’m currently learning: **Vue.js**
